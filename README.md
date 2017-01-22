@@ -1,6 +1,8 @@
-# さまよえるクエルクス
+# Files to build [my GitHub Pages](https://quercus2011.github.io)
 
-A blog on [GitHub Pages](https://pages.github.com) with [Hexo](https://hexo.io).
+Deploy to https://github.com/quercus2011/quercus2011.github.io/
+
+With [Hexo](https://hexo.io).
 
 Migrated from http://quercus2011.blog.fc2.com at 2017/Jun/22.
 
