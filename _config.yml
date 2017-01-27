@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: さまよえるクエルクス
+subtitle: FINAL FANTASY XIV (FF14) のプレイヤー Quercus Maris （クエルクス・マリス）のプレイ日記
+description: FINAL FANTASY XIV (FF14) のプレイヤー Quercus Maris （クエルクス・マリス）のプレイ日記です。
+author: Quercus Maris
+language: ja
+timezone: Asis/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://quercus2011.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -26,6 +26,10 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+ - _posts/**/*.js
+ - /**/.git
+ - /**/node_modules
+ - /*/.git*
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -34,7 +38,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -42,6 +46,9 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
+fancybox: false
+marked:
+  breaks: false
 
 # Category & Tag
 default_category: uncategorized
