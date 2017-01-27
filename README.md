@@ -6,6 +6,8 @@ With [Hexo](https://hexo.io).
 
 Migrated from http://quercus2011.blog.fc2.com at 2017/Jun/22.
 
+This site is **a field test** of [Hexo](https://hexo.io).
+
 
 ## License
 
