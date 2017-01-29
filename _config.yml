@@ -93,4 +93,6 @@ theme: BlueLake
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: ssh://git@github.com:22/quercus2011/quercus2011.github.io.git
+  branch: master
