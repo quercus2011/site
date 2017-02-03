@@ -7,6 +7,7 @@ excerpt: |
 tags:
  - BeforeMeteor
  - ImportedFromFC2
+imported_from: http://quercus2011.blog.fc2.com/blog-entry-3.html
 ---
 Quercus Maris （クエルクス・マリス）です！　はじめまして！
 
