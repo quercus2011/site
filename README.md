@@ -34,7 +34,7 @@ Creative Commons Attribution 4.0 International License
 (CC BY 4.0)
 とします。
 <br />
-Copyright (C) 2017 <a href="https://quercus2011.github.io">Quercus Maris</a>
+Copyright (C) 2011-2017 <a href="https://quercus2011.github.io">Quercus Maris</a>
 </p>
 
  - [CC BY 4.0 （日本語版）](https://creativecommons.org/licenses/by/4.0/deed.ja)
