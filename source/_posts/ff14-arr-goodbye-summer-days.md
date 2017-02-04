@@ -16,10 +16,10 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-31.html
 耐熱装備とかぼちゃ頭と花火を持って、コスタに集合です。
 
 
-<a href="{% asset_path SS__20131023aa0.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20131023aa0.jpg %}">
 {% asset_img SS__20131023aa.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 いきなりアーリマンに乗った集団が発生しちゃいました。
 
@@ -38,37 +38,37 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-31.html
 
 １枚目はふつーの集合写真（ふつーなのはこれだけ）
 
-<a href="{% asset_path SS__20131023ac0.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20131023ac0.jpg %}">
 {% asset_img SS__20131023ac.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 
 
 ２枚目。
 
-<a href="{% asset_path SS__20131023ad0.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20131023ad0.jpg %}">
 {% asset_img SS__20131023ad.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 
 
 ３枚目。中央のメイン猫さんがぜんぶ持っていってますねｗ
 
-<a href="{% asset_path SS__20131023ae0.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20131023ae0.jpg %}">
 {% asset_img SS__20131023ae.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 
 
 ４枚目。グリーンがかったライティングがキレイ！
 
-<a href="{% asset_path SS__20131023af0.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20131023af0.jpg %}">
 {% asset_img SS__20131023af.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 
 

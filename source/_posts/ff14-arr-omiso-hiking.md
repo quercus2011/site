@@ -65,10 +65,10 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-22.html
 
 最後にみんなで記念撮影して終了！
 
-<a href="{% asset_path SS__20130830aj.jpg %}">
+<figure class="thumbnail"><a href="{% asset_path SS__20130830aj.jpg %}">
 {% asset_img SS__20130830ai.jpg "スクリーンショット" %}
-<span class="caption">↑クリックで拡大↑</span>
-</a>
+↑クリックで拡大↑
+</a></figure>
 
 
 終わってみれば、あっというまの２時間でした。
