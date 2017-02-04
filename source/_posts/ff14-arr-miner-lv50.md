@@ -8,6 +8,7 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-32.html
 ---
 ここしばらく、ID に行かなきゃと思いつつもやる気が出ずに、
 のんびり採掘してたりします。
+<!-- more -->
 
 ```
 　　Lv20⇒25　　桜貝(Lv19)

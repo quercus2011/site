@@ -9,6 +9,7 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-35.html
 動画編集やりたい、ということで、まったくのシロウトにもかかわらず、
 <a href="http://www.adobe.com/jp/products/aftereffects.html">Adobe After Effects</a>
 にチャレンジすることにしました！
+<!-- more -->
 
 無謀かもですが、まぁ、がんばってみる。
 月 5000 円の課金も覚悟しました。

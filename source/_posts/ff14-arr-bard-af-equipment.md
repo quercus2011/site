@@ -8,6 +8,7 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-29.html
 ---
 昨夜は FC 定例イベントということで、FC のみなさんと PT を組んで
 メインシナリオのガルーダ討伐に行ってきました！
+<!-- more -->
 
 超へろへろで即死してしまって全然戦力にならなかったのが申し訳ない＞＜
 

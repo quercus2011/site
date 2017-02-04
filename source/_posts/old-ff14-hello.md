@@ -1,9 +1,6 @@
 ---
 title: 【旧FF14】 はじめてみました
 date: 2011-02-08 23:59:59
-excerpt: |
-  Quercus Maris （クエルクス・マリス）です！　はじめまして！
-  このたび、FINAL FANTASY XIV (FF14) で遊んでみることにしました。
 tags:
  - BeforeMeteor
  - ImportedFromFC2

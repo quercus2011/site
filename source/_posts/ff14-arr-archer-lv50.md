@@ -9,6 +9,7 @@ imported_from: http://quercus2011.blog.fc2.com/blog-entry-28.html
 北ザナラーンの FATE パーティに参加すること数日。
 
 よーやく弓が Lv50 になりました！
+<!-- more -->
 
 
 {% asset_img SS__20130930aa.jpg "スクリーンショット" %}
