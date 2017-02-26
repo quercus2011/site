@@ -67,6 +67,9 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+toc:
+  maxdepth: 1
+  class: toc
 
 # Category & Tag
 default_category: uncategorized
