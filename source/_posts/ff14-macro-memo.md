@@ -7,14 +7,12 @@ tags:
 ---
 FF14 のマクロに関するメモです。
 
-テキストコマンドの一覧（公式）    
-http://jp.finalfantasyxiv.com/lodestone/playguide/win/text_command/
-
-マクロ - FF14 Online Wiki    
-http://ff14wiki.info/?%E3%83%9E%E3%82%AF%E3%83%AD
-
-テキストコマンド - FINAL FANTASY XIV n Wiki    
-http://ff14n.wikiwiki.jp/?%A5%C6%A5%AD%A5%B9%A5%C8%A5%B3%A5%DE%A5%F3%A5%C9
+ - テキストコマンドの一覧（公式）    
+   http://jp.finalfantasyxiv.com/lodestone/playguide/win/text_command/
+ - マクロ - FF14 Online Wiki    
+   http://ff14wiki.info/?%E3%83%9E%E3%82%AF%E3%83%AD
+ - テキストコマンド - FINAL FANTASY XIV n Wiki    
+   http://ff14n.wikiwiki.jp/?%A5%C6%A5%AD%A5%B9%A5%C8%A5%B3%A5%DE%A5%F3%A5%C9
 
 
 ## グラウンドターゲットスキル発動マクロ
@@ -23,10 +21,9 @@ http://ff14n.wikiwiki.jp/?%A5%C6%A5%AD%A5%B9%A5%C8%A5%B3%A5%DE%A5%F3%A5%C9
 Patch 3.2 からグラウンドターゲットスキルの設置場所として
 代名詞によるターゲット指定ができるようになっていました。
 
-[Patch 3.2 パッチノート](http://jp.finalfantasyxiv.com/lodestone/topics/detail/7abc9fa4bbf7e73d1c94eaaeea46fcff603aa97a)
-
-FF14 グラウンドターゲットスキルのマクロ関連いろいろ - Eorzean    
-http://www.eorzean.info/archives/3638082.html
+ - [Patch 3.2 パッチノート](http://jp.finalfantasyxiv.com/lodestone/topics/detail/7abc9fa4bbf7e73d1c94eaaeea46fcff603aa97a)
+ - FF14 グラウンドターゲットスキルのマクロ関連いろいろ - Eorzean    
+   http://www.eorzean.info/archives/3638082.html
 
 
 たとえば、
@@ -283,8 +280,8 @@ XHB1-3 は常に非共有モードです。
 
 ## ピーアンマクロ
 
-FF14 固定PT用ピーアンマクロ - Eorzean    
-http://www.eorzean.info/archives/2785161.html
+ - FF14 固定PT用ピーアンマクロ - Eorzean    
+   http://www.eorzean.info/archives/2785161.html
 
 
 ## ギルドリーヴ納品用移動マクロ
@@ -292,5 +289,5 @@ http://www.eorzean.info/archives/2785161.html
 同じマップに受注 NPC と納品先 NPC がいる場合、
 自動で起動できるみたいです。
 
-FF14 ギルドリーヴ納品用移動マクロ    
-http://www.eorzean.info/archives/3135969.html
+ - FF14 ギルドリーヴ納品用移動マクロ    
+   http://www.eorzean.info/archives/3135969.html
