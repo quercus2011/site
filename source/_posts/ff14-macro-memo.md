@@ -7,6 +7,8 @@ tags:
 ---
 FF14 のマクロに関するメモです。
 
+<!-- toc -->
+
  - テキストコマンドの一覧（公式）    
    http://jp.finalfantasyxiv.com/lodestone/playguide/win/text_command/
  - マクロ - FF14 Online Wiki    
