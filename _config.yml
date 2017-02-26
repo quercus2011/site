@@ -68,7 +68,7 @@ jsonContent:
     categories: false
     tags: true
 toc:
-  maxdepth: 1
+  maxdepth: 2
   class: toc
 
 # Category & Tag
