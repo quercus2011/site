@@ -72,3 +72,64 @@ https://twitter.com/quercus_maris/status/838806270173827072
 少なくとも１ピクセルは（半）透明でなければならないようです。
 
 「Twitter向け画像最適化ツール」の手法はおそらく最善の手かと思われます。
+
+
+{% raw %}
+<!--
+------------------------------------------------------------------------------
+## おまけ２
+
+念のため、画像処理ツール ImageMagick を使って PNG 画像の比較をしてみました。
+
+ - ImageMagick 公式サイト    
+   https://www.imagemagick.org
+ - ImageMagickで2枚の画像を比較 - Qiita    
+   http://qiita.com/kwst/items/c40817b3cdf841995257
+
+ちなみに、ImageMagick は Windows 上でも使えます（使っています）。
+
+ - 画像１：オリジナル画像<br />
+   {% asset_link bg20170129b.png %}
+ - 画像２：画像１の左上隅の１ピクセルだけ透明にした画像<br />
+   {% asset_link bg20170129b-transparent.png %}
+ - 画像３：画像２をツイートして Twitter からダウンロードした画像<br />
+   {% asset_link bg20170129b-transparent.download.png %}
+ - 画像４：画像１を「Twitter向け画像最適化ツール」で変換した画像<br />
+   {% asset_link bg20170129b_tw.png %}
+
+まず、ふつうに画像１と画像２を比較してみると、「一致」と言われてしまいます。
+
+```bash
+$ magick composite -compose difference bg20170129b.png bg20170129b-transparent.png bmp:- | magick identify -verbose -format "%[mean]" bmp:-
+0
+$
+```
+
+これは、左上隅の１ピクセルだけ透明にする際、色情報 (RGB) には手を加えず、
+アルファ値（透明度）だけ `0` にしているため、
+RGB のみで比較すると同一と判断されてしまったものです。
+
+アルファ値を含めて（RGBA で）比較すると、ちゃんと差が出ます。
+
+```bash
+$ magick convert bg20170129b.png -alpha Set -channel RGBA -channel-fx 'alpha=100%' zzz.png
+
+
+$ magick composite -compose difference -channel RGBA zzz.png bg20170129b-transparent.png zzz.bmp
+$ magick composite zzz.png -channel Alpha bg20170129b-transparent.png -channel Alpha -compose difference zzz.bmp
+
+
+
+$ magick identify -verbose -format "%[mean]" zzz.bmp
+
+
+
+
+
+
+$ magick convert bg20170129b.png -alpha Set -channel RGBA -channel-fx 'alpha=100%' png:- | magick composite -channel RGBA -compose difference png:- bg20170129b-transparent.png bmp:- | magick identify -verbose -format "%[mean]" bmp:-
+0
+$
+```
+-->
+{% endraw %}
