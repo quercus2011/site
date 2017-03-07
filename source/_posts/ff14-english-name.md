@@ -17,7 +17,7 @@ FF 用語の英語表記を調べるのが手間でした。
 そこで役に立ったのが、以下のページです。
 
 
-### その１： エオルゼアデータベース
+## その１： エオルゼアデータベース
 
 公式のやつです。    
 http://jp.finalfantasyxiv.com/lodestone/playguide/db/advanced_search/
