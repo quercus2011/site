@@ -89,3 +89,13 @@ http://www.eorzean.info/archives/4674980.html
 ブラウザのページ内検索機能 (CTRL-F) で検索できます。
 
 感謝！
+
+
+## その４： なんでもない
+
+ - FFXIV titles JP vs EN - なんでもない    
+   http://blog.kouhi.me/ffxiv-titles-jp-vs-en/
+
+アチーブメント／称号の日英対照表です。
+
+趣味で日本語から英語に翻訳されているカナダの方のようです。感謝！
