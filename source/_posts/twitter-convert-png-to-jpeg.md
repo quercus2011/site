@@ -32,6 +32,23 @@ JPEG への強制変換を避けるために PNG 画像を加工してくれる�
 作者の[栃尾トメさん](https://sdn-project.net)に感謝！
 
 
+{% blockquote %}
+★2017/Mar/24 追記★
+
+Windows デスクトップクライアントの OpenTween が最新版 1.3.7 で
+この問題に対応してくれました！　感謝！！
+
+https://ja.osdn.net/projects/opentween/
+
+バージョンアップしてもデフォルトでは機能が OFF になっているので、
+「ファイル」メニューの「設定」ダイアログを開いて、「動作」の「投稿」のページで、
+「PNG画像の投稿時にJPEGへの変換を回避する（pic.twitter.com のみ）」
+にチェックを入れてください。
+
+ちなみに対処方法は「Twitter向け画像最適化ツール」と同じです。
+{% endblockquote %}
+
+
 ## おまけ
 
 実際に Twitter に PNG 画像を投稿してみて、挙動を確認してみました。
