@@ -30,6 +30,13 @@ skip_render:
  - /**/.git
  - /**/node_modules
  - /*/.git*
+ignored_path:
+ - /**/.git
+ - /**/node_modules
+ - /**/bower_components
+ - true
+ - /**/.git*
+ - /**/~*
 
 # Writing
 new_post_name: :title.md # File name of new posts
